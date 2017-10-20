@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/facebookgo/stack"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 // NewHook is the initializer for LogrusStackHook{} (implementing logrus.Hook).
